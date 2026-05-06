@@ -1,6 +1,6 @@
 # 🔱 Heimdall-OS: The Imperial Gateway
 
-![Heimdall Hero Banner](https://github.com/sontaemin80/Heimdall-OS/blob/main/heimdall_hero_banner.png?raw=true)
+![Heimdall Hero Banner](https://github.com/sontaemin80/Heimdall-OS/blob/master/heimdall_hero_banner.png?raw=true)
 
 > **"Beyond an Application, An Imperial Experience."**
 
